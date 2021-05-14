@@ -12,9 +12,9 @@ At this point, I did not add a photo to the main page which i think could be dis
 I aimed to create something which I would enjoy and reflect my personality. And I will continue adding some creativity to this project.
 
 ## Screenshot
-![Portfolio page - 3240.1166](./Assets/images/screenshot1.png)
-![Portfolio page - 968.1744 -1-](./Assets/images/screenshot2.png)
-![Portfolio page - 968.1744 -2-](./Assets/images/screenshot3.png)
+![Portfolio page - 3240.1166](./Assets/images/screenshot-one.png)
+![Portfolio page - 968.1744 -1-](./Assets/images/screenshot-two.png)
+![Portfolio page - 968.1744 -2-](./Assets/images/screenshot-three.png)
 
 ## Credits
 Images in the page  are taken from www.dreamtime.com 
