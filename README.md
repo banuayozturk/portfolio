@@ -1,6 +1,6 @@
 # portfolio
 
-## Deployed Application: 
+## Deployed Application: https://banuayozturk.github.io/portfolio/
 
 ## Description: 
 In this project I created a simple portfolio page for myself. I must mention that, this is not a completed portfolio page but an ongoing project which i will be working on in the coming weeks.
@@ -11,15 +11,12 @@ At this point, I did not add a photo to the main page which i think could be dis
 
 I aimed to create something which I would enjoy and reflect my personality. And I will continue adding some creativity to this project.
 
-
-
-
 ## Screenshot
-![Portfolio page - 3240.1166](/Assets/images/screenshot1.png)
-![Portfolio page - 968.1744 -1-](/Assets/images/screenshot2.png)
-![Portfolio page - 968.1744 -2-](/Assets/images/screenshot3.png)
+![Portfolio page - 3240.1166](./Assets/images/screenshot1.png)
+![Portfolio page - 968.1744 -1-](./Assets/images/screenshot2.png)
+![Portfolio page - 968.1744 -2-](./Assets/images/screenshot3.png)
 
-##
+## Credits
 Images in the page  are taken from www.dreamtime.com 
 
 ## Contact Me
