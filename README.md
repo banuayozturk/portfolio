@@ -7,9 +7,9 @@ In this project I created a simple portfolio page for myself. I must mention tha
 
 I have tried to create something simple yet visually appealing for my future clients and future employers. For this reason, I prefered to implement some code related images on a dark background and to adjust the contrast ratio I used off-white font colors to reduce eye strain.
 
-At this point, I did not add a photo to the main page which i think could be distracting. I am planning to add links to my resume and websites to introduce myself.
+At this point, I did not add a photo to the main page, which I think could be distracting with the other images. I am planning to add links to my resume and websites to introduce myself in the future.
 
-I aimed to create something which I would enjoy and reflect my personality. And I will continue adding some creativity to this project.
+I aimed to create something I would enjoy and reflect my personality.  I will continue adding some creativity to this project.
 
 ## Screenshot
 ![Portfolio page - 3240.1166](./images/screenshot-one.png)
