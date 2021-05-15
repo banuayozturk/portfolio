@@ -13,8 +13,8 @@ I aimed to create something I would enjoy and reflect my personality.  I will co
 
 ## Screenshot
 ![Portfolio page - 3240.1166](./images/screenshot-one.png)
-![Portfolio page - 968.1744 -1-](./images/screenshot-two.png)
-![Portfolio page - 968.1744 -2-](./images/screenshot-three.png)
+![Portfolio page - 968.1744 ](./images/screenshot-two.png)
+![Portfolio page - 968.1744 ](./images/screenshot-three.png)
 
 ## Credits
 Images in the page  are taken from www.dreamtime.com 
