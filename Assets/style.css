@@ -14,7 +14,6 @@
 }
 
 /* Element Selectors */
-
 html {
     margin: 0 10%;
 }
@@ -26,6 +25,7 @@ body {
 header, footer {
     display: flex;
     flex-wrap:wrap;
+    flex-direction: row;
     background-color: var(--dark-gray);
     height: 60px;
     align-items: center;
@@ -41,7 +41,7 @@ h1 {
 figcaption {
     padding: 3px;
     background-color: var(--azure);
-    width: 20%;
+    width: 30%;
     font-size: 22px;
     text-align:center;
     position: relative;
@@ -50,6 +50,7 @@ figcaption {
     max-height: 35px;
     min-height: 35px;
 }
+
 figcaption span{
     height: 100%;
     width: 100%;
@@ -72,12 +73,10 @@ a  {
 }
 
 .inline  {
-    display: inline;
     padding:0 15px; 
 }
 
 .code {
-   
     height: 200px;
     width: 100%;
     margin-bottom: 25px;
@@ -137,8 +136,9 @@ a  {
 
 /* Media Query Styles */
 @media screen and (max-width: 768px ) {
+   
     span {
-        font-size: 12px;
+        font-size: small;
     }
     .header{
         margin-right: auto;
@@ -149,9 +149,16 @@ a  {
         width: 100%;
     }
     
+    .inline {
+        font-size: small;
+        padding: 0;
+       
+    }
+
     .container-box {
       display: block;
     }
+
     .container-item {
         width: 100%;
         float: left;
@@ -166,6 +173,7 @@ a  {
         width: 100%;
         display: block;
     }
+
     .right p{
         padding: 0;
     }
@@ -178,12 +186,33 @@ a  {
 
     .footer-links{
         padding: 5px;
+        float: left;
+        display: block;
     }
 
-    .footer-links ul {
-        float: left;
+    .footer-links a {
+        display: block;
+    }
+
+    @media screen and (max-width: 283px ) {
+
+        span {
+            font-size: x-small;
+        }
+
+       .name {
+           font-size: smaller;
+       }
+
+       .inline {
+        font-size: x-small;
         
+       
     }
-    .footer-links ul li { 
-        display: block;   
-    }
+
+
+
+
+    
+
+  
