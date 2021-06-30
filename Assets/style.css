@@ -94,8 +94,19 @@ a  {
 }
 
  .container-item {
+    position: relative;
     flex: 0 0 50%;
     height: 200px;
+ }
+
+ .text-content {
+     
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    font-size: larger;
+    color:whitesmoke;
+    text-shadow: 1px 1px var(--dark-gray);
  }
 
  .container-item img {
